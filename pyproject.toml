@@ -1,0 +1,9 @@
+[project]
+name = "fastapi-crud"
+version = "0.1.0"
+description = " CRUD Operations ->0-0<- "
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi[standard]>=0.117.1",
+]
